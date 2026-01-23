@@ -4,7 +4,6 @@
 
 Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas para Internet no IF Sudeste MG - Campus Barbacena, com interesse em desenvolvimento web e sempre em busca de novos desafios para desenvolver minhas habilidades, expandir meus conhecimentos e progredir em minha carreira. 
 
----
 
 ## 🤖 Linguagens e Tecnologias
 
@@ -81,7 +80,6 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
     /> 
 </p>
 
----
 
 ## 📫 Contatos
 
@@ -89,19 +87,22 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugovrp@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugovrp_) 
 
----
 
 ## 📊 Estatísticas 
 
-<div style="display: flex; gap: 10px;">
-    <img  
+<table border="0">
+  <tr>
+    <td valign="top">
+      <img 
         alt="GitHub Stats" 
         height="400" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical"
-    />
-    <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical"/>
+    </td>
+    <td valign="top">
+      <img 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br"
-    />
-</div>
+        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br"/>
+    </td>
+  </tr>
+</table>
