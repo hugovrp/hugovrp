@@ -3,6 +3,7 @@
 **`Web Developer`**
 
 Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas Gerais. Atualmente, estou cursando Sistemas para Internet no IF Sudeste MG - Campus Barbacena, com interesse em desenvolvimento web e sempre em busca de novos desafios para desenvolver minhas habilidades, expandir meus conhecimentos e progredir em minha carreira. 
+
 <br>
 
 ## 🤖 Linguagens e Tecnologias
@@ -87,6 +88,7 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
     style="padding-right: 10px;" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
 /> 
+
 <br>
 
 ## 📫 Contatos
@@ -94,6 +96,7 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hugovrp)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:hugovrp@gmail.com)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugovrp_) 
+
 <br>
 
 ## 📊 Estatísticas 
@@ -102,14 +105,14 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
     <img 
         align="left" 
         alt="GitHub Stats" 
-        height="200" 
+        height="400" 
         style="padding-right: 10px;" 
-        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical"
     />
     <img 
         align="left" 
         alt="GitHub Stats" 
         height="200" 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical"
+        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br"
     />
 </p>
