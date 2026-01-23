@@ -95,7 +95,7 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
         alt="GitHub Stats"  
         height="400" 
         align="top" 
-        style="padding-right: 10px;" 
+        hspace="10"
         src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical" 
     />
     <img 
