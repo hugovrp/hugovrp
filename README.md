@@ -65,6 +65,13 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/github/github-original.svg" 
     />
     <img 
+        alt="LINUX"
+        title="LINUX" 
+        width="40px" 
+        style="padding-right: 10px;" 
+        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
+    /> 
+    <img 
         alt="PYTHON"
         title="PYTHON" 
         width="40px" 
@@ -77,13 +84,6 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
         width="40px" 
         style="padding-right: 10px;" 
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/flask/flask-original.svg" 
-    /> 
-    <img 
-        alt="LINUX"
-        title="LINUX" 
-        width="40px" 
-        style="padding-right: 10px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" 
     /> 
     <img 
         alt="APACHE"
