@@ -109,20 +109,20 @@ Me chamo Hugo Vinícius Rodrigues Pereira, tenho 21 anos e sou natural de Minas 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/hugovrp_) 
 
 
-## 📊 Estatísticas 
+## 📊 Estatísticas
 
 <p align="left">
     <img 
-        alt="GitHub Stats"  
-        height="400" 
-        align="top" 
+        alt="Linguagens Mais Utilizadas"
+        height="400"
+        align="top"
         hspace="10"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&layout=donut-vertical&cache_seconds=1800&v2"
     />
     <img 
-        alt="GitHub Stats"  
-        height="200" 
-        align="top" 
-        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br" 
+        alt="GitHub Stats"
+        height="200"
+        align="top"
+        src="https://github-readme-stats.vercel.app/api?username=hugovrp&theme=ayu-mirage&show_icons=true&hide_border=false&count_private=true&locale=pt-br&cache_seconds=1800&v2"
     />
 </p>
