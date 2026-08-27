@@ -2,7 +2,7 @@
 
 ###
 
-<p data-importer="text" align="center">I'm <strong>Hugo Vinícius</strong>, a <code>Web Developer</code> and an Internet Systems student at IF Sudeste MG.<br>I'm passionate about web development and always looking to learn, build projects, and improve my skills.</p>
+<p data-importer="text" align="center">I'm <strong>Hugo Vinícius</strong>, a <code>Web Developer</code> and an <strong>Internet Systems</strong> student at IF Sudeste MG.<br>I am interested in web development and am always looking to learn, create projects, and improve my skills.</p>
 
 ###
 
