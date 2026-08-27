@@ -44,6 +44,8 @@
 
 ###
 
+<br clear="both">
+
 <div data-importer="stats" align="center">
   <img src="https://raw.githubusercontent.com/hugovrp/hugovrp/languages-output/languages.svg?locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=github_dark&hide_border=true&order=2" height="180" alt="languages graph"  />
 </div>
