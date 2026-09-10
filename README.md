@@ -2,7 +2,17 @@
 
 ###
 
-<p data-importer="text" align="center">I'm <strong>Hugo Vinícius</strong>, a <code>Web Developer</code> and an <strong>Internet Systems</strong> student at IF Sudeste MG.<br>I am interested in web development and am always looking to learn, create projects, and improve my skills.</p>
+<p data-importer="text" align="center">I'm <strong>Hugo Vinícius</strong>, a <code>Web Developer</code> and an Internet Systems student at IF Sudeste MG.<br>Building modern web applications with a focus on user experience, performance, and continuous learning.</p>
+
+<p align="center">
+  <a href="https://hugovrp.dev"><strong>🌐 Portfolio</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.linkedin.com/in/hugovrp/"><strong>💼 LinkedIn</strong></a>
+  &nbsp; • &nbsp;
+  <a href="https://www.instagram.com/hugovrp_/"><strong>📸 Instagram</strong></a>
+  &nbsp; • &nbsp;
+  <a href="mailto:hugovrp@gmail.com"><strong>📫 Contact</strong></a>
+</p>
 
 ###
 
@@ -54,28 +64,12 @@
 
 <br clear="both">
 
-<h2 data-importer="text" align="center">📫 Connect</h2>
-
-###
-
-<div data-importer="socials" align="center">
-  <a href="https://www.linkedin.com/in/hugovrp/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="mailto:hugovrp@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  </a>
-  <a href="https://www.instagram.com/hugovrp_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="instagram logo"  />
-  </a>
-</div>
-
-###
-
+<div align="center">
 <picture data-importer="pacman">
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/hugovrp/hugovrp/pacman-output/bomberman-contribution-graph-dark.svg?game=bomberman">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/hugovrp/hugovrp/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/hugovrp/hugovrp/pacman-output/bomberman-contribution-graph.svg?game=bomberman">
 </picture>
+</div>
 
 ###
