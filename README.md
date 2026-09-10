@@ -5,11 +5,11 @@
 <p data-importer="text" align="center">I'm <strong>Hugo Vinícius</strong>, a <code>Web Developer</code> and an Internet Systems student at IF Sudeste MG.<br>Building modern web applications with a focus on user experience, performance, and continuous learning.</p>
 
 <p align="center">
-  <a href="https://hugovrp.dev"><strong>🌐 Portfolio</strong></a>
+  <a href="https://hugovrp.dev" target="_blank" rel="noopener noreferrer"><strong>🌐 Portfolio</strong></a>
   &nbsp; • &nbsp;
-  <a href="https://www.linkedin.com/in/hugovrp/"><strong>💼 LinkedIn</strong></a>
+  <a href="https://www.linkedin.com/in/hugovrp/" target="_blank" rel="noopener noreferrer"><strong>💼 LinkedIn</strong></a>
   &nbsp; • &nbsp;
-  <a href="https://www.instagram.com/hugovrp_/"><strong>📸 Instagram</strong></a>
+  <a href="https://www.instagram.com/hugovrp_/" target="_blank" rel="noopener noreferrer"><strong>📸 Instagram</strong></a>
   &nbsp; • &nbsp;
   <a href="mailto:hugovrp@gmail.com"><strong>📫 Contact</strong></a>
 </p>
